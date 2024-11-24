@@ -101,7 +101,7 @@ describe("<Quiz />", () => {
     cy.get(".card").children().eq(1).children().should("have.length", 4);
   });
 
-  it("should display a loading spinner when there is no response from the API", () => {
+  it("should display a loading spinner when there are no questions ", () => {
     cy.intercept("GET", "/api/questions/random", {
       body: [],
     }).as("mockEmptyQuestionsArray");
