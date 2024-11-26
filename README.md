@@ -55,7 +55,7 @@ Follow these steps to get the application running on your local machine:
 
    ```bash
     git clone <repository-url>
-    cd book-search-engine
+    cd tech-quiz
    ```
 
 2. Install Dependencies
@@ -77,7 +77,7 @@ Follow these steps to get the application running on your local machine:
    You need the app running and then open another terminal to run cypress and see the tests pass!
    ```bash
    npm run start:dev
-   npm run cypress
+   npm run test
    ```
 
 ---
