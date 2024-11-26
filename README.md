@@ -84,7 +84,7 @@ Follow these steps to get the application running on your local machine:
 
 ## Demonstration
 
-Click on this [Link](https://book-search-engine-9icu.onrender.com/) to see a video demo for this app!
+Click on this [Link](https://www.loom.com/share/0c01bb1b35b64d2ea5a2e83a38ea6ea3/) to see a video demo for this app!
 
 ## Tests
 
